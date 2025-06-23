@@ -5,7 +5,7 @@ let imagebtn = document.querySelector("#image");
 let image = document.querySelector("#image img");
 let imageinput = document.querySelector("#image input");
 
-const Api_Url = "https://chatbot-backend-25s9.onrender.com";
+const Api_Url = "https://chatbot-backend-25s9.onrender.com/generate";
 
 let user = {
     message: null,
